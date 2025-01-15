@@ -85,8 +85,9 @@ Este projeto tem um impacto significativo em diversas áreas:
 
 **Principais causas de acidentes:**
 1. Falta de atenção à condução
-2. Reação tardia e ausência de reação do condutor
-3. Velocidade incompatível com a via (4º lugar)
+2. Reação tardia
+3. Ausência de reação do condutor
+4. Velocidade incompatível com a via
 
 **Link do Dashboard no Power BI:**
 [Dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiNTE0NGY1YjYtOGUzMy00ODg3LWE3NmQtMjBiYWIxZDExYzE1IiwidCI6Ijg0MmQ2OTI3LWYzOWMtNDU0Ni04ODg3LWMxNTYxYWMyOTA1NiJ9)
