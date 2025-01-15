@@ -18,7 +18,7 @@ O objetivo deste projeto é demonstrar habilidades de análise de dados utilizan
 
 ## Fonte de Dados
 - [Dados Abertos da PRF](https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf)
-- Período: 2019 a 23/12/2024
+- Período: 01/01/2019 a 23/12/2024
 
 ## Impacto do Projeto
 Este projeto tem um impacto significativo em diversas áreas:
